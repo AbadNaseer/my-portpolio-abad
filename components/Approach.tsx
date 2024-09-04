@@ -15,9 +15,7 @@ const Approach = () => {
         <Card
           title="Planning & Strategy"
           icon={<AceternityIcon order="Phase 1" />}
-          des="We'll collaborate to map out your website's goals, target audience, 
-          and key functionalities. We'll discuss things like site structure, 
-          navigation, and content requirements."
+          des="Planning & Strategy: I will begin by thoroughly understanding the project requirements and defining a clear roadmap, aligning it with client objectives and technical feasibility."
         >
           <CanvasRevealEffect
             animationSpeed={5.1}
@@ -26,10 +24,9 @@ const Approach = () => {
           />
         </Card>
         <Card
-          title="Development & Progress Update"
+          title="Development & Execution"
           icon={<AceternityIcon order="Phase 2" />}
-          des="Once we agree on the plan, I cue my lofi playlist and dive into
-          coding. From initial sketches to polished code, I keep you updated
+          des="Using my expertise in web development and cloud computing, I will build and deploy high-quality, scalable solutions. I will ensure seamless integration of all components, utilizing CI/CD pipelines for efficient and reliable deployment. From initial sketches to polished code, I keep you updated
           every step of the way."
         >
           <CanvasRevealEffect
@@ -48,11 +45,9 @@ const Approach = () => {
           {/* <div className="absolute inset-0 [mask-image:radial-gradient(400px_at_center,white,transparent)] bg-black/50 dark:bg-black/90" /> */}
         </Card>
         <Card
-          title="Development & Launch"
+          title="Monitoring & Optimization"
           icon={<AceternityIcon order="Phase 3" />}
-          des="This is where the magic happens! Based on the approved design, 
-          I'll translate everything into functional code, building your website
-          from the ground up."
+          des="After deployment, I will monitor the performance, making iterative improvements and scaling as needed, ensuring the project’s long-term success and adaptability to future needs."
         >
           <CanvasRevealEffect
             animationSpeed={3}

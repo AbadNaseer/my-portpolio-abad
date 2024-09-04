@@ -49,7 +49,7 @@ export const gridItems = [
 
   {
     id: 5,
-    title: "Currently building a JS Animation library",
+    title: "Currently exploring AI/ML models and cloud-native applications",
     description: "The Inside Scoop",
     className: "md:col-span-3 md:row-span-2",
     imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
@@ -72,32 +72,32 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: "3D Solar System Planets to Explore",
-    des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
+    title: "Angular Code Summarization",
+    des: "Created a tool for summarizing Angular code and integrated an AI model to improve project navigation and understanding.",
     img: "/p1.svg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
     link: "/ui.earth.com",
   },
   {
     id: 2,
-    title: "Yoom - Video Conferencing App",
-    des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
+    title: "Sales Product Website",
+    des: "I developed the 'Sales Product Website' to provide a seamless online shopping experience.",
     img: "/p2.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
     link: "/ui.yoom.com",
   },
   {
     id: 3,
-    title: "AI Image SaaS - Canva Application",
-    des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
+    title: "Top Travel Advisor App",
+    des: "A REAL Software-as-a-Service app with personalized recommendations, itinerary management, and real-time updates for seamless trip planning and enjoyable travel experiences.",
     img: "/p3.svg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
     link: "/ui.aiimg.com",
   },
   {
     id: 4,
-    title: "Animated Apple Iphone 3D Website",
-    des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
+    title: "Gym Management Web App",
+    des: "Efficiently manage memberships, track workouts, and schedule classes with our MERN stack web app.",
     img: "/p4.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
     link: "/ui.apple.com",
@@ -107,33 +107,33 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Working with Abad on our Gym Management Web App was a game-changer. His expertise in the MERN stack was evident from the start. Abad's ability to turn complex requirements into a seamless, user-friendly application was remarkable. If you need a reliable developer who excels in full-stack web development, Abad is your go-to expert.",
     name: "Michael Johnson",
     title: "Director of AlphaStream Technologies",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Collaborating with Abad Naseer on our project was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Abad's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and brand, Abad is the ideal partner.",
+    name: "Sarah Lee",
+    title: "CEO of TechFlow Inc.",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Abad's expertise in MERN stack development was key to the success of our travel web app project. His technical skills and strategic approach ensured a smooth development process. If you're looking to enhance your web platform with top-notch development, Abad is the perfect choice.",
+    name: "David Kim",
+    title: "CTO of Wanderlust Travel",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Abad's deep knowledge of AI/ML and cloud-native applications made our project a resounding success. His ability to integrate advanced technologies into practical solutions is impressive. For any AI-driven or cloud-based project, Abad is the expert you want on your team.",
+    name: "Emily Rodriguez",
+    title: "Lead Data Scientist at InnovateX",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "If you're looking for someone who can deliver a high-performance web solution using modern tech stacks like MERN, look no further than Abad. His commitment to excellence and his ability to exceed client expectations make him a standout developer.",
+    name: "John Smith",
+    title: "Founder of WebCore Solutions",
   },
 ];
 
@@ -180,15 +180,15 @@ export const workExperience = [
   },
   {
     id: 2,
-    title: "Mobile App Dev - JSM Tech",
-    desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
+    title: "AI web App Dev - NextSapian Group",
+    desc: "Designed, developed, and deployed AI web app for my client.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp2.svg",
   },
   {
     id: 3,
     title: "Freelance App Dev Project",
-    desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
+    desc: "Led the dev of a web app for a client, from initial concept to deployment on app stores.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp3.svg",
   },
@@ -205,13 +205,16 @@ export const socialMedia = [
   {
     id: 1,
     img: "/git.svg",
+    url: "https://github.com/AbadNaseer"
   },
   {
     id: 2,
     img: "/twit.svg",
+    url: "https://x.com/abadVoiceOfPak"
   },
   {
     id: 3,
     img: "/link.svg",
+    url: "https://www.linkedin.com/in/abadnaseer/"
   },
 ];
